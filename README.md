@@ -46,7 +46,7 @@ Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa:
 
 Penjelasan lengkap mengenai proses koding, alur logika, dan hasil *running* program dapat dilihat melalui tautan video berikut:
 
-👉 [ ]
+👉 [https://youtu.be/0M8n2W0UsSI ]
 
 ---
 
